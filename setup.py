@@ -7,8 +7,8 @@ HERE = pathlib.Path(__file__).parent
 README = (HERE / "README.md").read_text(encoding="utf8")
 
 setup(
-	name="GoogleTranslator",
-	version="1.0",
+	name="SmallGoogleTranslator",
+	version="1.1",
 	author="MagMigo",
 	description="Использование гугл-переводчика удобным вам образом.",
 	long_description=README,
