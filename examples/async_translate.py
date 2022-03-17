@@ -1,5 +1,5 @@
 import asyncio
-import GoogleTranslator
+from google.translator import GoogleTranslator
 
 translator = GoogleTranslator()
 
