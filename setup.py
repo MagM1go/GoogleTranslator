@@ -8,7 +8,7 @@ README = (HERE / "README.md").read_text(encoding="utf8")
 
 setup(
 	name="SmallGoogleTranslator",
-	version="1.1",
+	version="1.2",
 	author="MagMigo",
 	description="Использование гугл-переводчика удобным вам образом.",
 	long_description=README,
