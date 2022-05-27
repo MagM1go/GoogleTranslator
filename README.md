@@ -27,5 +27,5 @@ from google.translator import GoogleTranslator
 
 translator = GoogleTranslator()
 
-print(translator.translate_sync(text, src_lang)("test", "ru"))
+print(translator.translate_sync("test", "ru"))
 ```
